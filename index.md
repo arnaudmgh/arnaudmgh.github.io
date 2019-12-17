@@ -1,6 +1,6 @@
 # Arnaud Amzallag
 
-
+[!Arnaud's picture](Arnaud2-150x150.png)
 
 This is a short page about me. You can find more about what I do on:      
 * [my LinkedIn profile](https://www.linkedin.com/in/arnaud-amzallag/)
