@@ -1,10 +1,12 @@
-# Github Pages
+# Arnaud Amzallag
 
-This is a test to understand how Github Pages (essentially, a static website) works.
+This is a short page about me. You can find more about what I do at .      
+* [my LinkedIn profile](https://www.linkedin.com/in/arnaud-amzallag/)
+* [my google scholar profile](https://scholar.google.com/citations?user=Rczb7MwAAAAJ&hl=en)
 
-Let's see if [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) works.
+## Synergy screen
+https://github.com/arnaudmgh/synergy-screen
 
-## A title
 
-## Another title
-Okay, let's see
+## Another project
+
